@@ -1,10 +1,10 @@
 package prob1;
 
-/**
+/** Changes Added
  * Represents a baskeball playerZZZ
  *
  */
-public class BasketballPlayer {
+public class BasketballPlayer { 
 
 	/**
 	 * The name of the basketball player.
